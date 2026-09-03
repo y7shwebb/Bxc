@@ -1,7 +1,6 @@
 {
-  "manifestVersion": 1,
-  "name": "BXC",
-  "apps": [
+  "name": "BXC Repo",
+  "repositories": [
     {
       "id": "com.redphx.better-xcloud",
       "title": "Better xCloud Lite",
@@ -9,13 +8,11 @@
       "type": "app",
       "category": "Games",
       "description": "Better xCloud client for LG webOS TV.",
-      "iconUri": "https://raw.githubusercontent.com/y7shwebb/Bxc/main/bxc.png",
-      "manifestUrl": "https://raw.githubusercontent.com/y7shwebb/Bxc/main/manifest.json",
+      "icon": "https://raw.githubusercontent.com/y7shwebb/Bxc/main/bxc.png",
       "manifest": {
         "id": "com.redphx.better-xcloud",
         "version": "6.2.1",
-        "ipkUrl": "https://raw.githubusercontent.com/y7shwebb/Bxc/main/com.redphx.better-xcloud_6.2.1_all.ipk",
-        "ipkHash": {}
+        "ipkUrl": "https://raw.githubusercontent.com/y7shwebb/Bxc/main/com.redphx.better-xcloud_6.2.1_all.ipk"
       }
     }
   ]
