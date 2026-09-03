@@ -1,4 +1,5 @@
 {
+  "manifestVersion": 1,
   "name": "BXC",
   "apps": [
     {
@@ -8,13 +9,14 @@
       "type": "app",
       "category": "Games",
       "description": "Better xCloud client for LG webOS TV.",
-      "icon": "https://raw.githubusercontent.com/y7shwebb/Bxc/main/bxc.png",
+      "iconUri": "https://raw.githubusercontent.com/y7shwebb/Bxc/main/bxc.png",
+      "manifestUrl": "https://raw.githubusercontent.com/y7shwebb/Bxc/main/manifest.json",
       "manifest": {
         "id": "com.redphx.better-xcloud",
         "version": "6.2.1",
-        "ipkUrl": "https://y7shwebb.github.io/Bxc/com.redphx.better-xcloud_6.2.1_all.ipk"
+        "ipkUrl": "https://raw.githubusercontent.com/y7shwebb/Bxc/main/com.redphx.better-xcloud_6.2.1_all.ipk",
+        "ipkHash": {}
       }
     }
   ]
 }
-
