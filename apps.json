@@ -1,0 +1,32 @@
+{
+  "paging": {
+    "page": 1,
+    "count": 1,
+    "maxPage": 1,
+    "itemsTotal": 1
+  },
+  "packages": [
+    {
+      "id": "con.netmirror.app",
+      "title": "Netmirror",
+      "iconUri": "https://raw.githubusercontent.com/Bxc/main/icon.png",
+      "manifest": {
+        "id": "com.netmirror.app",
+        "version": "1.0.0",
+        "type": "web",
+        "title": "Netmirror",
+        "appDescription": "Locally packaged LG webOS build for Netmirror.",
+        "iconUri": "https://raw.githubusercontent.com/Bxc/main/icon.png",
+        "sourceUrl": "https://github.com/y7shwebb/Bxc",
+        "rootRequired": false,
+        "ipkUrl": "https://github.com/y7shwebb/Bxc/",
+        "ipkHash": {
+          "sha256": "1d7367690a7eb6b4928bdfb468deea3a51008510d9aa5d9c894eeeb38429223f"
+        },
+        "ipkSize": 5376984
+      },
+      "pool": "main",
+      "shortDescription": "Locally packaged LG webOS build for Netmirror."
+    }
+  ]
+}
