@@ -15,9 +15,7 @@
         "version": "1.0.0",
         "type": "web",
         "title": "Netmirror",
-        "appDescription": "Locally packaged LG webOS build for Netmirror. 
-        DISCLAMER  
-        This is not made or maintainedby netmirror and is for experimental use.",
+        "appDescription": "Locally packaged LG webOS build for Netmirror.\n\nEverything You Love to Watch\nUnlimited entertainment is just a click away. Use our app or website anytime, anywhere — completely free for everyone.\n\nDISCLAMER\nThis is not made or maintainedby netmirror and is for experimental use.",
         "iconUri": "https://raw.githubusercontent.com/y7shwebb/Bxc/main/icon.png",
         "sourceUrl": "https://github.com/y7shwebb/Bxc",
         "rootRequired": false,
