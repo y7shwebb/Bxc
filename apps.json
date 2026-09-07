@@ -19,11 +19,11 @@
         "iconUri": "https://raw.githubusercontent.com/y7shwebb/Bxc/main/icon.png",
         "sourceUrl": "https://github.com/y7shwebb/Bxc",
         "rootRequired": false,
-        "ipkUrl": "https://github.com/y7shwebb/Bxc/com.netmirror.app_1.0.0_all.ipk",
+        "ipkUrl": "https://github.com/y7shwebb/Bxc/main/netmirror_1.0.2.ipk",
         "ipkHash": {
           "sha256": "59225ddde73d71a9465f25a55e75f644753171cf3d5b55345fc6b72cb194011f"
         },
-        "ipkSize": 5376984
+        "ipkSize": 5434502
       },
       "pool": "main",
       "shortDescription": "Locally packaged LG webOS build for Netmirror."
