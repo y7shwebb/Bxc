@@ -15,7 +15,9 @@
         "version": "1.0.0",
         "type": "web",
         "title": "Netmirror",
-        "appDescription": "Locally packaged LG webOS build for Netmirror.",
+        "appDescription": "Locally packaged LG webOS build for Netmirror. 
+        DISCLAMER  
+        This is not made or maintainedby netmirror and is for experimental use.",
         "iconUri": "https://raw.githubusercontent.com/y7shwebb/Bxc/main/icon.png",
         "sourceUrl": "https://github.com/y7shwebb/Bxc",
         "rootRequired": false,
@@ -23,7 +25,7 @@
         "ipkHash": {
           "sha256": "59225ddde73d71a9465f25a55e75f644753171cf3d5b55345fc6b72cb194011f"
         },
-        "ipkSize": 35340
+        "ipkSize": 5376984
       },
       "pool": "main",
       "shortDescription": "Locally packaged LG webOS build for Netmirror."
