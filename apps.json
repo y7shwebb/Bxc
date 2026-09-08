@@ -7,24 +7,24 @@
   },
   "packages": [
     {
-      "id": "com.netmirror.app",
+      "id": "netmirror.app",
       "title": "Netmirror",
       "iconUri": "https://raw.githubusercontent.com/y7shwebb/Bxc/main/icon.png",
       "largeIcon": "https://raw.githubusercontent.com/y7shwebb/Bxc/main/largeIcon.png",
       "manifest": {
         "id": "com.netmirror.app",
-        "version": "0.2.9",
+        "version": "0.3.9",
         "type": "web",
         "title": "Netmirror",
         "appDescription": "Locally packaged LG webOS build for Netmirror.\n\nEverything You Love to Watch\nUnlimited entertainment is just a click away. Use our app or website anytime, anywhere — completely free for everyone.\n\nDISCLAMER\nThis is not made or maintainedby netmirror and is for experimental use.",
         "iconUri": "https://raw.githubusercontent.com/y7shwebb/Bxc/main/icon.png",
         "sourceUrl": "https://github.com/y7shwebb/Bxc",
         "rootRequired": false,
-        "ipkUrl": "https://raw.githubusercontent.com/y7shwebb/Bxc/main/netmirror_0.2.9.ipk",
+        "ipkUrl": "https://raw.githubusercontent.com/y7shwebb/Bxc/main/netmirror_0.3.9.ipk",
         "ipkHash": {
-          "sha256": "b1ec52590eefdec42515408519c72ec92d98ebd7023d4183905777966694d7d9"
+          "sha256": "2862e783b0de7767aadfef44286086b0c8faf5ae44604e5e238da8d469098a85"
         },
-        "ipkSize": 189356
+        "ipkSize": 188898
       },
       "pool": "main",
       "shortDescription": "Locally packaged LG webOS build for Netmirror."
